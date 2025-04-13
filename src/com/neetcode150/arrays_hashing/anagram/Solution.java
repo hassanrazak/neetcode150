@@ -1,4 +1,4 @@
-package com.neetcode150.anagram;
+package com.neetcode150.arrays_hashing.anagram;
 
 
 public class Solution {

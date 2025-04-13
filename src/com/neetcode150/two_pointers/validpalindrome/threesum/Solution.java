@@ -1,4 +1,4 @@
-package com.neetcode150.threesum;
+package com.neetcode150.two_pointers.validpalindrome.threesum;
 
 import java.util.ArrayList;
 import java.util.Arrays;

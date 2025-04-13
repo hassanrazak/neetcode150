@@ -1,4 +1,4 @@
-package com.neetcode150.twosums;
+package com.neetcode150.arrays_hashing.anagram.twosums;
 
 import java.util.HashMap;
 

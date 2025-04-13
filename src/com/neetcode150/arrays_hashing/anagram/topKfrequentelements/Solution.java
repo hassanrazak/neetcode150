@@ -1,4 +1,4 @@
-package com.neetcode150.topKfrequentelements;
+package com.neetcode150.arrays_hashing.anagram.topKfrequentelements;
 
 import java.util.HashMap;
 import java.util.PriorityQueue;
