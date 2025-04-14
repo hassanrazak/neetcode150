@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+bin/
+out/
+.metadata/
+.classpath
+.project
+.sonarlint/
+DSA.iml

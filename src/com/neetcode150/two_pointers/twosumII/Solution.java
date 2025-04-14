@@ -1,4 +1,4 @@
-package com.neetcode150.two_pointers.validpalindrome.twosumII;
+package com.neetcode150.two_pointers.twosumII;
 
 import java.util.Arrays;
 

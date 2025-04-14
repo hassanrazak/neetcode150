@@ -1,4 +1,4 @@
-package com.neetcode150.arrays_hashing.anagram.groupanagrams;
+package com.neetcode150.arrays_hashing.groupanagrams;
 
 import java.util.*;
 

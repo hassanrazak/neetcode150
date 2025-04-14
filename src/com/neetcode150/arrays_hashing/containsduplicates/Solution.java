@@ -1,4 +1,4 @@
-package com.neetcode150.arrays_hashing.anagram.containsduplicates;
+package com.neetcode150.arrays_hashing.containsduplicates;
 
 import java.util.HashSet;
 

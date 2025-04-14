@@ -1,4 +1,4 @@
-package com.neetcode150.two_pointers.validpalindrome;
+package com.neetcode150.two_pointers.valid_palindrome;
 
 public class Solution {
 

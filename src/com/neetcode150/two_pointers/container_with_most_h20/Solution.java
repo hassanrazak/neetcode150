@@ -1,4 +1,4 @@
-package com.neetcode150.two_pointers.validpalindrome.container_with_most_h20;
+package com.neetcode150.two_pointers.container_with_most_h20;
 
 public class Solution {
 
