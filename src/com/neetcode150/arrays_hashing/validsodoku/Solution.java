@@ -1,4 +1,4 @@
-package com.neetcode150.validsodoku;
+package com.neetcode150.arrays_hashing.validsodoku;
 
 import java.util.HashSet;
 

@@ -1,4 +1,4 @@
-package com.neetcode150.prod_of_array_excp_self;
+package com.neetcode150.arrays_hashing.prod_of_array_excp_self;
 
 import java.util.Arrays;
 
